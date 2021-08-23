@@ -1,4 +1,7 @@
 /**
+ * -------
+ * Dibuat saat live youtube
+ * -------
  * 
  *  Library ini dikhususkan untuk merapihkan kode
  *  untuk menghandle konektivitas WiFi di ESP8266
