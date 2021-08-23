@@ -1,6 +1,6 @@
 /**
  * -------
- * Dibuat saat live youtube
+ * Dibuat saat live youtube V1.1
  * -------
  * 
  *  Library ini dikhususkan untuk merapihkan kode
